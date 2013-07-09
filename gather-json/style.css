@@ -1,0 +1,19 @@
+body {
+	background-color:#48453e;
+	color:#fff;
+	font-family:'Metrophobic', Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+a {color:#f0be01;}
+
+.clear {border-bottom:1px solid #d0d0cc;clear:both;margin:6px 0;height:6px;}
+
+/* gather */
+#view div h1 {font-size:2em;}
+.col {float:left;width:33%;}
+
+/* chat */
+#log {border:1px solid #7d7c7a;height:232px;overflow-y:scroll;padding:4px;}
+#send input {margin:0;padding:0;width:100%;}
+
+#tester {color:red;}

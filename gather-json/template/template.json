@@ -1,0 +1,38 @@
+{
+    "gather": {
+        "id": 1,
+        "game_server": "255.255.255.255:27015 pug",
+        "voice_server": "255.255.255.255:27016 voice",
+        "voice_type": "mumble",
+        "status": "wait"
+    },
+    "players": [{
+        "1": {
+            "id": "0",
+            "name": "Player",
+            "avatar": "URL of avatar",
+            "map_vote": 6,
+			"captain_vote": "0",
+			"votes": 0
+        },
+    }],
+    "maps": [{
+        "name": "ns2_summit",
+        "votes": 0
+    }, {
+        "name": "ns2_veil",
+        "votes": 0
+    }, {
+        "name": "ns2_tram",
+        "votes": 0
+    }, {
+        "name": "ns2_refinery",
+        "votes": 0
+    }, {
+        "name": "ns2_mineshaft",
+        "votes": 0
+    }, {
+        "name": "ns2_docking",
+        "votes": 0
+    }]
+}
